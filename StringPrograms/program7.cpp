@@ -2,9 +2,9 @@
 
 int main()
 {
-    char szSomeFileName[] = "foo/bar/foobar.txt";
-    char *pLastSlash = strrchr(szSomeFileName, '/');
-    char *pszBaseName = pLastSlash ? pLastSlash + 1 : szSomeFileName;
-    printf("Base Name: %s", pszBaseName);
+    char someFileName[] = "folder/files/filename.txt";
+    char *pLastSlash = strrchr(someFileName, '/');
+    char *pBaseName = pLastSlash ? pLastSlash + 1 : someFileName;
+    printf("Base Name: %s", pBaseName);
     return 0;
 }

@@ -3,8 +3,8 @@
 int main()
 {
 
-    const char *str = "Try not. Do, or do not. There is no try.";
-    char target = 'T';
+    const char *str = "I scream, you scream, we all scream for ice-cream";
+    char target = 'a';
     const char *result = str;
 
     while ((result = strchr(result, target)) != NULL)
