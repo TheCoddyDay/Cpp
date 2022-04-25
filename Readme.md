@@ -1,16 +1,21 @@
 project name:
 # Project :- Cpp
-Hello, My Dear readers I am your Accidental writer. I like to code with C++. So I made this Repository for Just having fun with it. In this I am just using some of those function that you know already or you don't know, But I think It will help you out or not I don't know. But I do want to know. I want to help you out if I can, So Please help me so I can do it for you
-
+Just want to make Some of the programs in my way. Let's see how can I do this?!
 
 ## Description:
 This Repo has / will Have some of those function's program that I think is good to have
 * StringPrograms :- Have all basic type of string function (will add more)
+* Matrix :- some things about matrix
+* Sort :- A class that has every sorting type
+* Class :- Showing class and inheritance
+* SwitchCase :- Showing use of Switch case
+* IfElse :- Use of If this else this
+* Some Functions :- having some of the function that I think is good
 
 ## Get in touch
 
-Discord server
-
+Discord server :- 
+join the server if you think if you are that
 ## support me?
 
 youtube: </br>
